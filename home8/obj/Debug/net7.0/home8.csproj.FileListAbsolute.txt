@@ -1,0 +1,15 @@
+C:\Users\lokis\OneDrive\Документы\father\home\home8\obj\Debug\net7.0\home8.csproj.AssemblyReference.cache
+C:\Users\lokis\OneDrive\Документы\father\home\home8\obj\Debug\net7.0\home8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lokis\OneDrive\Документы\father\home\home8\obj\Debug\net7.0\home8.AssemblyInfoInputs.cache
+C:\Users\lokis\OneDrive\Документы\father\home\home8\obj\Debug\net7.0\home8.AssemblyInfo.cs
+C:\Users\lokis\OneDrive\Документы\father\home\home8\obj\Debug\net7.0\home8.csproj.CoreCompileInputs.cache
+C:\Users\lokis\OneDrive\Документы\father\home\home8\bin\Debug\net7.0\home8.exe
+C:\Users\lokis\OneDrive\Документы\father\home\home8\bin\Debug\net7.0\home8.deps.json
+C:\Users\lokis\OneDrive\Документы\father\home\home8\bin\Debug\net7.0\home8.runtimeconfig.json
+C:\Users\lokis\OneDrive\Документы\father\home\home8\bin\Debug\net7.0\home8.dll
+C:\Users\lokis\OneDrive\Документы\father\home\home8\bin\Debug\net7.0\home8.pdb
+C:\Users\lokis\OneDrive\Документы\father\home\home8\obj\Debug\net7.0\home8.dll
+C:\Users\lokis\OneDrive\Документы\father\home\home8\obj\Debug\net7.0\refint\home8.dll
+C:\Users\lokis\OneDrive\Документы\father\home\home8\obj\Debug\net7.0\home8.pdb
+C:\Users\lokis\OneDrive\Документы\father\home\home8\obj\Debug\net7.0\home8.genruntimeconfig.cache
+C:\Users\lokis\OneDrive\Документы\father\home\home8\obj\Debug\net7.0\ref\home8.dll
