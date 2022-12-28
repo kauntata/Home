@@ -1,0 +1,15 @@
+﻿Console.WriteLine("Ввидите координату x для точка A: ");
+int xA = int.Parse(Console.ReadLine()!);
+Console.WriteLine("Ввидите координату x для точка A: ");
+int yA = int.Parse(Console.ReadLine()!);
+Console.WriteLine("Ввидите координату x для точка A: ");
+int zA = int.Parse(Console.ReadLine()!);
+Console.WriteLine("Ввидите координату x для точка B: ");
+int xB = int.Parse(Console.ReadLine()!);
+Console.WriteLine("Ввидите координату x для точка B: ");
+int yB = int.Parse(Console.ReadLine()!);
+Console.WriteLine("Ввидите координату x для точка B: ");
+int zB = int.Parse(Console.ReadLine()!);
+double distance = 0;
+distance = Math.Sqrt(Math.Pow(xA - xB, 2) + Math.Pow(yA - yB, 2) + Math.Pow(zA - zB, 2));
+Console.WriteLine(Math.Round(distance, 3));
