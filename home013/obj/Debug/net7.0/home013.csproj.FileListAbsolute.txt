@@ -1,0 +1,15 @@
+C:\Users\416\Desktop\DZ\Home\home013\bin\Debug\net7.0\home013.exe
+C:\Users\416\Desktop\DZ\Home\home013\bin\Debug\net7.0\home013.deps.json
+C:\Users\416\Desktop\DZ\Home\home013\bin\Debug\net7.0\home013.runtimeconfig.json
+C:\Users\416\Desktop\DZ\Home\home013\bin\Debug\net7.0\home013.dll
+C:\Users\416\Desktop\DZ\Home\home013\bin\Debug\net7.0\home013.pdb
+C:\Users\416\Desktop\DZ\Home\home013\obj\Debug\net7.0\home013.csproj.AssemblyReference.cache
+C:\Users\416\Desktop\DZ\Home\home013\obj\Debug\net7.0\home013.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\416\Desktop\DZ\Home\home013\obj\Debug\net7.0\home013.AssemblyInfoInputs.cache
+C:\Users\416\Desktop\DZ\Home\home013\obj\Debug\net7.0\home013.AssemblyInfo.cs
+C:\Users\416\Desktop\DZ\Home\home013\obj\Debug\net7.0\home013.csproj.CoreCompileInputs.cache
+C:\Users\416\Desktop\DZ\Home\home013\obj\Debug\net7.0\home013.dll
+C:\Users\416\Desktop\DZ\Home\home013\obj\Debug\net7.0\refint\home013.dll
+C:\Users\416\Desktop\DZ\Home\home013\obj\Debug\net7.0\home013.pdb
+C:\Users\416\Desktop\DZ\Home\home013\obj\Debug\net7.0\home013.genruntimeconfig.cache
+C:\Users\416\Desktop\DZ\Home\home013\obj\Debug\net7.0\ref\home013.dll
