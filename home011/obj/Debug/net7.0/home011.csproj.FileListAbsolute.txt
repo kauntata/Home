@@ -1,0 +1,15 @@
+C:\Users\416\Desktop\DZ\Home\home011\obj\Debug\net7.0\home011.csproj.AssemblyReference.cache
+C:\Users\416\Desktop\DZ\Home\home011\obj\Debug\net7.0\home011.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\416\Desktop\DZ\Home\home011\obj\Debug\net7.0\home011.AssemblyInfoInputs.cache
+C:\Users\416\Desktop\DZ\Home\home011\obj\Debug\net7.0\home011.AssemblyInfo.cs
+C:\Users\416\Desktop\DZ\Home\home011\obj\Debug\net7.0\home011.csproj.CoreCompileInputs.cache
+C:\Users\416\Desktop\DZ\Home\home011\bin\Debug\net7.0\home011.exe
+C:\Users\416\Desktop\DZ\Home\home011\bin\Debug\net7.0\home011.deps.json
+C:\Users\416\Desktop\DZ\Home\home011\bin\Debug\net7.0\home011.runtimeconfig.json
+C:\Users\416\Desktop\DZ\Home\home011\bin\Debug\net7.0\home011.dll
+C:\Users\416\Desktop\DZ\Home\home011\bin\Debug\net7.0\home011.pdb
+C:\Users\416\Desktop\DZ\Home\home011\obj\Debug\net7.0\home011.dll
+C:\Users\416\Desktop\DZ\Home\home011\obj\Debug\net7.0\refint\home011.dll
+C:\Users\416\Desktop\DZ\Home\home011\obj\Debug\net7.0\home011.pdb
+C:\Users\416\Desktop\DZ\Home\home011\obj\Debug\net7.0\home011.genruntimeconfig.cache
+C:\Users\416\Desktop\DZ\Home\home011\obj\Debug\net7.0\ref\home011.dll
