@@ -1,0 +1,15 @@
+C:\Users\416\Documents\Новая папка (2)\home\home015\bin\Debug\net7.0\home015.exe
+C:\Users\416\Documents\Новая папка (2)\home\home015\bin\Debug\net7.0\home015.deps.json
+C:\Users\416\Documents\Новая папка (2)\home\home015\bin\Debug\net7.0\home015.runtimeconfig.json
+C:\Users\416\Documents\Новая папка (2)\home\home015\bin\Debug\net7.0\home015.dll
+C:\Users\416\Documents\Новая папка (2)\home\home015\bin\Debug\net7.0\home015.pdb
+C:\Users\416\Documents\Новая папка (2)\home\home015\obj\Debug\net7.0\home015.csproj.AssemblyReference.cache
+C:\Users\416\Documents\Новая папка (2)\home\home015\obj\Debug\net7.0\home015.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\416\Documents\Новая папка (2)\home\home015\obj\Debug\net7.0\home015.AssemblyInfoInputs.cache
+C:\Users\416\Documents\Новая папка (2)\home\home015\obj\Debug\net7.0\home015.AssemblyInfo.cs
+C:\Users\416\Documents\Новая папка (2)\home\home015\obj\Debug\net7.0\home015.csproj.CoreCompileInputs.cache
+C:\Users\416\Documents\Новая папка (2)\home\home015\obj\Debug\net7.0\home015.dll
+C:\Users\416\Documents\Новая папка (2)\home\home015\obj\Debug\net7.0\refint\home015.dll
+C:\Users\416\Documents\Новая папка (2)\home\home015\obj\Debug\net7.0\home015.pdb
+C:\Users\416\Documents\Новая папка (2)\home\home015\obj\Debug\net7.0\home015.genruntimeconfig.cache
+C:\Users\416\Documents\Новая папка (2)\home\home015\obj\Debug\net7.0\ref\home015.dll
